@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SpringBatchTutorialSafari.iml" filepath="$PROJECT_DIR$/SpringBatchTutorialSafari.iml" />
+      <module fileurl="file://$PROJECT_DIR$/decisions/decisions.iml" filepath="$PROJECT_DIR$/decisions/decisions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flows/flows.iml" filepath="$PROJECT_DIR$/flows/flows.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nestedJobs/nestedJobs.iml" filepath="$PROJECT_DIR$/nestedJobs/nestedJobs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/split/split.iml" filepath="$PROJECT_DIR$/split/split.iml" />
+    </modules>
+  </component>
+</project>
