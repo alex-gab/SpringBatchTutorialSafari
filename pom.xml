@@ -12,6 +12,7 @@
         <module>decisions</module>
         <module>nestedJobs</module>
         <module>listeners</module>
+        <module>jobParameters</module>
     </modules>
     <packaging>pom</packaging>
 

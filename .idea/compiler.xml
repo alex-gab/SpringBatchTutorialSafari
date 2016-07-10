@@ -24,6 +24,7 @@
         <processorPath useClasspath="true" />
         <module name="decisions" />
         <module name="flows" />
+        <module name="jobParameters" />
         <module name="listeners" />
         <module name="nestedJobs" />
         <module name="split" />
@@ -32,6 +33,7 @@
     <bytecodeTargetLevel>
       <module name="decisions" target="1.8" />
       <module name="flows" target="1.8" />
+      <module name="jobParameters" target="1.8" />
       <module name="listeners" target="1.8" />
       <module name="nestedJobs" target="1.8" />
       <module name="split" target="1.8" />
