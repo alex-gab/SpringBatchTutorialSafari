@@ -13,6 +13,7 @@
         <module>nestedJobs</module>
         <module>listeners</module>
         <module>jobParameters</module>
+        <module>databaseInput</module>
     </modules>
     <packaging>pom</packaging>
 

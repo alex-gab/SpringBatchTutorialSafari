@@ -22,6 +22,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
+        <module name="databaseInput" />
         <module name="decisions" />
         <module name="flows" />
         <module name="jobParameters" />
@@ -31,6 +32,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="databaseInput" target="1.8" />
       <module name="decisions" target="1.8" />
       <module name="flows" target="1.8" />
       <module name="jobParameters" target="1.8" />
